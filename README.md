@@ -31,6 +31,8 @@ MySQL >= 5.7 且 <= 8.0 (需支持innodb引擎)
 
 Apache 或 Nginx
 
+Redis
+
 ### 安装教程
 
 trx哈希竞猜系统安装非常友好，只需简单四步即可安装完成，下面以 Linux 宝塔面板 （Linux + NGINX + PHP7.4 + MySQL + Redis）为例。
