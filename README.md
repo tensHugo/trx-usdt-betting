@@ -95,9 +95,9 @@ composer安装依赖，在网站主目录下，直接运行命令：`composer in
 #### 前端截图
 
 ![竞猜首页](https://raw.githubusercontent.com/tensHugo/img-hugou/master/jingcai-home.jpg "竞猜首页")
-![兑换首页](https://raw.githubusercontent.com/tensHugo/img-hugou/master/duihuan-home.jpg"兑换首页")
+![兑换首页](https://raw.githubusercontent.com/tensHugo/img-hugou/master/duihuan-home.jpg "兑换首页")
 ![哈希查询首页](https://raw.githubusercontent.com/tensHugo/img-hugou/master/hash-hmoe.jpg"哈希查询首页")
-![哈希查询页](https://raw.githubusercontent.com/tensHugo/img-hugou/master/hash-chaxun.jpg"哈希查询页")
+![哈希查询页](https://raw.githubusercontent.com/tensHugo/img-hugou/master/hash-chaxun.jpg "哈希查询页")
 
 #### 后台截图
 
