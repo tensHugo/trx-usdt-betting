@@ -85,11 +85,11 @@ composer安装依赖，在网站主目录下，直接运行命令：`composer in
 
 ## 在线演示
 
-[https://test2.fsasa.cc/CjrMZcbWXK.php](https://test2.fsasa.cc/CjrMZcbWXK.php/)
+[https://trx.69555.co/ODoyMhWmFR.php](https://trx.69555.co/ODoyMhWmFR.php)
 
-用户名：admin
+用户名：demo1
 
-密　码：rootadmin
+密　码：demo111
 
 提　示：演示站数据无法进行修改，请下载源码安装体验全部功能
 
