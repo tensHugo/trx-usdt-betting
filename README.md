@@ -1,4 +1,4 @@
-# 目前源码有偿提供，需要源码请联系Telegram：[@dongdongme](https://t.me/dongdongme)
+# 需要源码请联系Telegram：[@dongdongme](https://t.me/dongdongme)
 
 trx哈希竞猜系统是一套基于波场（tron）开发的虚拟货币USDT、TRX竞猜系统，用户只需要向指定的虚拟货币钱包地址转账即可完成大小竞猜、单双竞猜的玩法。系统完全利用区块链的转账信息来确定竞猜结果，竞猜结果完全公开、公正，无法人工干预。
 
