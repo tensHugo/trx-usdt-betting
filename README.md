@@ -84,11 +84,17 @@ php禁用函数：`putenv`
 
 ## 在线演示
 
-[https://trx.69555.co/ODoyMhWmFR.php](https://trx.69555.co/ODoyMhWmFR.php)
+后台地址：[https://trx.69555.co/ODoyMhWmFR.php](https://trx.69555.co/ODoyMhWmFR.php)
 
 用户名：demo1
 
 密　码：demo111
+
+哈希竞猜首页：[https://trx.69555.co/](https://trx.69555.co/)
+
+哈希自动兑换地址：[https://trx.69555.co/exchange](https://trx.69555.co/exchange)
+
+钱包交易查询地址：[https://trx.69555.co/hash](https://trx.69555.co/hash)
 
 提　示：演示站数据无法进行修改，请下载源码安装体验全部功能
 
