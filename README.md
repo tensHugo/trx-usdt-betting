@@ -1,4 +1,5 @@
 # 需要源码请联系Telegram：[@dongdongme](https://t.me/dongdongme)
+## 文章底部有演示地址
 
 trx哈希竞猜系统是一套基于波场（tron）开发的虚拟货币USDT、TRX竞猜系统，用户只需要向指定的虚拟货币钱包地址转账即可完成大小竞猜、单双竞猜的玩法。系统完全利用区块链的转账信息来确定竞猜结果，竞猜结果完全公开、公正，无法人工干预。
 
@@ -84,17 +85,17 @@ php禁用函数：`putenv`
 
 ## 在线演示
 
-后台地址：[https://trx.69555.co/ODoyMhWmFR.php](https://trx.69555.co/ODoyMhWmFR.php)
+后台地址：[http://trx.shanhuwangluo.com/ODoyMhWmFR.php](https://trx.69555.co/ODoyMhWmFR.php)
 
 用户名：demo1
 
 密　码：demo111
 
-哈希竞猜首页：[https://trx.69555.co/](https://trx.69555.co/)
+哈希竞猜首页：[http://trx.shanhuwangluo.com/](https://trx.69555.co/)
 
-哈希自动兑换地址：[https://trx.69555.co/exchange](https://trx.69555.co/exchange)
+哈希自动兑换地址：[http://trx.shanhuwangluo.com/exchange](https://trx.69555.co/exchange)
 
-钱包交易查询地址：[https://trx.69555.co/hash](https://trx.69555.co/hash)
+钱包交易查询地址：[http://trx.shanhuwangluo.com/hash](https://trx.69555.co/hash)
 
 提　示：演示站数据无法进行修改，请下载源码安装体验全部功能
 
@@ -138,23 +139,6 @@ exchange =     #代币兑换页域名
 hash =         #交易查询页域名
 ```
 
-## 特别鸣谢
-
-感谢以下的项目,排名不分先后
-
-FastAdmin：https://www.fastadmin.net
-
-ThinkPHP：http://www.thinkphp.cn
-
-AdminLTE：https://adminlte.io
-
-Bootstrap：http://getbootstrap.com
-
-jQuery：http://jquery.com
-
-Bootstrap-table：https://github.com/wenzhixin/bootstrap-table
-
-Nice-validator: https://validator.niceue.com
 
 SelectPage: https://github.com/TerryZ/SelectPage
 
