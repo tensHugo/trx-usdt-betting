@@ -85,11 +85,11 @@ php禁用函数：`putenv`
 
 ## 在线演示
 
-后台地址：[http://trx.shanhuwangluo.com/ODoyMhWmFR.php](http://trx.shanhuwangluo.com/ODoyMhWmFR.php)
+后台地址：[http://trx.shanhuwangluo.com/egsFkhJmyV.php](http://trx.shanhuwangluo.com/egsFkhJmyV.php)
 
-用户名：demo1
+用户名：admin
 
-密　码：demo111
+密　码：rootadmin
 
 哈希竞猜首页：[http://trx.shanhuwangluo.com/](http://trx.shanhuwangluo.com/)
 
